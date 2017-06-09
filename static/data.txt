@@ -1,0 +1,7 @@
+Jordan Mann is a genius, you gotta admit.
+This was written to this file using a get request!
+Written from Trinket!
+Demonstration for Harold Mann
+Testing secure write feature.
+For Mr. Maltzman
+Trinket Maltzman demonstration.
